@@ -1,0 +1,8 @@
+2023-04-03 02:13:51.658442 - Initialized conversion of CBT726
+2023-04-03 02:13:51.728760 - Received CBT.V504.FILE726.PDS from FILE726.XMI 
+2023-04-03 02:13:51.731593 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE726.PDS, moved to PDS/$$$#DATE
+2023-04-03 02:13:51.732925 - Found @FILE726.txt (text/plain) in CBT.V504.FILE726.PDS, moved to PDS/@FILE726
+2023-04-03 02:13:51.734093 - Found VC.rexx (text/plain) in CBT.V504.FILE726.PDS, moved to PDS/VC
+2023-04-03 02:13:51.735252 - Found VCP.rexx (text/plain) in CBT.V504.FILE726.PDS, moved to PDS/VCP
+2023-04-03 02:13:51.736516 - Found VCP$$.txt (text/plain) in CBT.V504.FILE726.PDS, moved to PDS/VCP$$
+2023-04-03 02:13:51.737574 - Found VC3.rexx (text/plain) in CBT.V504.FILE726.PDS, moved to PDS/VC3
