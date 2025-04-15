@@ -1,7 +1,7 @@
-2025-04-13 22:10:26.148118 - Received CBT.V508.FILE726.PDS from FILE726.XMI 
-2025-04-13 22:10:26.148844 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE726.PDS, moved to PDS/$$$#DATE
-2025-04-13 22:10:26.148928 - Found @FILE726.txt (text/plain) in CBT.V508.FILE726.PDS, moved to PDS/@FILE726
-2025-04-13 22:10:26.149004 - Found VC.rexx (text/plain) in CBT.V508.FILE726.PDS, moved to PDS/VC
-2025-04-13 22:10:26.149079 - Found VCP.rexx (text/plain) in CBT.V508.FILE726.PDS, moved to PDS/VCP
-2025-04-13 22:10:26.149138 - Found VCP$$.txt (text/plain) in CBT.V508.FILE726.PDS, moved to PDS/VCP$$
-2025-04-13 22:10:26.149209 - Found VC3.rexx (text/plain) in CBT.V508.FILE726.PDS, moved to PDS/VC3
+2025-04-15 05:01:43.354778 - Received CBT.V508.FILE726.PDS from FILE726.XMI 
+2025-04-15 05:01:43.355949 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE726.PDS, moved to PDS/$$$#DATE
+2025-04-15 05:01:43.357182 - Found @FILE726.txt (text/plain) in CBT.V508.FILE726.PDS, moved to PDS/@FILE726
+2025-04-15 05:01:43.358077 - Found VC.rexx (text/plain) in CBT.V508.FILE726.PDS, moved to PDS/VC
+2025-04-15 05:01:43.358817 - Found VCP.rexx (text/plain) in CBT.V508.FILE726.PDS, moved to PDS/VCP
+2025-04-15 05:01:43.359063 - Found VCP$$.txt (text/plain) in CBT.V508.FILE726.PDS, moved to PDS/VCP$$
+2025-04-15 05:01:43.359738 - Found VC3.rexx (text/plain) in CBT.V508.FILE726.PDS, moved to PDS/VC3
